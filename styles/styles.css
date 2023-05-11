@@ -1,0 +1,42 @@
+body {
+    background-color:#a5a692;
+    margin: 0px;
+}
+
+#images{
+    display: inline-block;
+    background-color: rebeccapurple;
+}
+#cloud2 {
+    position:absolute;
+    left:300px;
+}
+#creative-span{
+    color:blue ;
+}
+
+.top-div {
+    background-color: #011F26;
+    margin-top: 0px;
+}
+
+.middle-div{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-div{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    color: #f2a71b;
+    margin-top: 0;
+}
+h2 {
+    color: #f2a71b;
+    margin-top: 0;
+}
